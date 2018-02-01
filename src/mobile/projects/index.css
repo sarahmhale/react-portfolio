@@ -1,0 +1,17 @@
+p {
+  text-align: center;
+  margin: 20px;
+}
+
+.container {
+  padding: 20px;
+}
+
+.background{
+  width: 100%;
+  background:linear-gradient(135deg, #65799b 0%,#5e2563 100%);
+}
+
+img {
+  width: 100%;
+}
